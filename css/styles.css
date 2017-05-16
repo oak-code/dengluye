@@ -29,3 +29,23 @@
 				font-size:1em;
 				float:right;
 				}
+	.username	{
+				text-align:left;
+				background:rgb(255,255,255); /* 背景色 */ 
+				padding:20px;
+				margin-top:5px;
+				height:30px
+		
+	}
+	.phone_img	{
+					margin:5px;
+					width:16px;
+					float:left;
+				}
+	input{	border:0;
+	
+	}
+	.line_input{
+		float:left;
+	
+	}
