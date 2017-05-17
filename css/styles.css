@@ -12,7 +12,8 @@
 			}
 	input{	
 			border:0;	
-			width:90%;
+			width:85%;
+			height:30px
 	}
 	.header	{}
 	.close_text	{
@@ -34,19 +35,19 @@
 				float:right;
 				}
 	.username	{
+		
 				text-align:left;
 				background:rgb(255,255,255); /* 背景色 */ 
-				padding:20px;
+				padding:10px;				
 				margin-top:5px;
-				height:20px
+				
 		
 				}
 	.passwd		{
 				text-align:left;
 				background:rgb(255,255,255); /* 背景色 */ 
-				padding:20px;
+				padding:10px;				
 				margin-top:5px;
-				height:20px
 		
 				}
 	.phone_img	{
@@ -67,7 +68,7 @@
 				height:30px;
 				width:2px;
 				float:left;
-				background:rgb(239,240,244);
+				background:rgb(166, 170, 185);
 				}
 	.login	{			
 				text-align:left;
