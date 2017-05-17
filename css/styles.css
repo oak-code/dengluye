@@ -12,6 +12,7 @@
 			}
 	input{	
 			border:0;	
+			width:90%;
 	}
 	.header	{}
 	.close_text	{
@@ -82,4 +83,12 @@
 				height:50px;
 				width:100%;
 		
-	}
+			}
+	.restpassword
+				{
+				margin:30px;	
+				text-align:right;
+				color:rgb(95,192,205);
+				font-size:1em;
+				float:right;	
+				}
